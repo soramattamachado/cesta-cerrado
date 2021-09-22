@@ -1,0 +1,27 @@
+{
+  "name": "cesta",
+  "displayName": "cesta",
+  "expo": {
+    "name": "Cesta",
+    "slug": "cesta",
+    "icon": "./assets/Icon.png",
+    "splash": {
+      "image": "./assets/Logo.png",
+      "backgroundColor": "#5A9C54"
+    },
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.diegocrodrigues.cesta",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDddE2LIUWFERj_ah1vUqccGZRUdelYIM0"
+        }
+      }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/soramattamachado/cesta"
+  }
+}
