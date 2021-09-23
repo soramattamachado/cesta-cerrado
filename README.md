@@ -37,12 +37,7 @@ Possibilitando uma melhor experiência no app, forma-se então uma rede e gera-s
 ## Executar Aplicativo no Expo (iOS / Android)
 
 <p align="center">
-<img width="200" height="auto" src="https://i.imgur.com/NgERfjz.png"/> 
- </p>
+<img width="200" height="auto" src="https://user-images.githubusercontent.com/61213894/134553968-5f92bcdb-f37c-4987-b817-3315d6f0e33f.png"/> 
+</p>
 
-## Baixar Aplicativo (APK - Android)
-
-<p align="center">
-<img width="200" height="auto" src="https://i.imgur.com/ihwYJLO.png"/> 
- </p>
 
